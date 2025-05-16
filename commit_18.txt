@@ -1,0 +1,1 @@
+Refactor: melhora a organização do código
